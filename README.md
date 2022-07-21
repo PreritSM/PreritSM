@@ -13,7 +13,7 @@
 - 📫 How to reach me: [Mail](https://mail.google.com/mail/u/0/#inbox)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: The computer "bug" was named after a literal bug found in a computer.
-- :balance_scale: Recreational Activities - I was the Co-ordinator of the Zephyr, The Dance Soc of IIIT Lucknow and a state level basketball player :basketball:
+- :balance_scale: Recreational Activities - I was the Co-ordinator of the Zephyr, Dance Soc of IIIT Lucknow and a state level basketball player :basketball:
 
 ### Skills
 <code><img align="center" height="30" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"></code>
