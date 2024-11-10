@@ -3,17 +3,17 @@
 <!--
 **PreritSM/PreritSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### <div align="center">Hi, I'm Prerit Mittal, final year student at IIIT Lucknow, India. 🚀</div>
+### <div align="center">Hi, I'm Prerit Mittal, Grad Student at Rochester Institute of Technology (RIT). 🚀</div>
 
 
 ### What I'm upto...
-- 🔭 I’m currently focusing on **Machine Learning and DSA**
+- 🔭 I’m currently focusing on **Computer Vision and DSA**
 - 👯 I’m looking to collaborate on Deep learning projects
 - 🤔 I’m looking for help with Transformers (NLP)
 - 📫 How to reach me: [Mail](https://mail.google.com/mail/u/0/#inbox)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: The computer "bug" was named after a literal bug found in a computer.
-- :balance_scale: Recreational Activities - I was the Co-ordinator of the Zephyr, Dance Soc of IIIT Lucknow and a state level basketball player :basketball:
+- :balance_scale: Recreational Activities - Feathers, friends, and fierce smashes!🏸
 
 ### Skills
 <code><img align="center" height="30" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"></code>
