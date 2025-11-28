@@ -9,7 +9,7 @@
 ### What I'm upto...
 - 🔭 I’m currently focusing on **Computer Vision and DSA**
 - 👯 I’m looking to collaborate on Deep learning projects
-- 🤔 I’m looking for help with Transformers (NLP)
+- 🤔 I’m looking for help with Agentic AI
 - 📫 How to reach me: [Mail](https://mail.google.com/mail/u/0/#inbox)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: The computer "bug" was named after a literal bug found in a computer.
