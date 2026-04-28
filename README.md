@@ -7,10 +7,10 @@
 
 
 ### What I'm upto...
-- 🔭 I’m currently focusing on **Computer Vision and DSA**
-- 👯 I’m looking to collaborate on Deep learning projects
-- 🤔 I’m looking for help with Agentic AI
-- 📫 How to reach me: [Mail](https://mail.google.com/mail/u/0/#inbox)
+- 🔭 I’m currently focusing on **MLOps and AI Engineering**
+- 👯 I’m looking to collaborate on building and orchestrating AI Agent Fleets
+- 🤔 I’m looking for help with Multiprocessing and Distributed Compute Systems
+- 📫 How to reach me: [Mail](mailto:mail2preritmittal@gmail.com)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: The computer "bug" was named after a literal bug found in a computer.
 - :balance_scale: Recreational Activities - Feathers, friends, and fierce smashes!🏸
