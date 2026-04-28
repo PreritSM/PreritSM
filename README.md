@@ -15,7 +15,7 @@
 - 📫 Reach me at: **[Email](mailto:your-email@example.com)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: The term computer “bug” was popularized after a real moth was found in a computer relay
-- 🏸 Outside tech: **Feathers, friends, and fierce smashes — badminton!**
+- 🏸 Outside tech: **Dance, friends, and fierce smashes — badminton!**
 
 ### Skills
 <code><img align="center" height="30" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nvidia.svg"></code>
